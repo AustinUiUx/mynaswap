@@ -6,7 +6,7 @@ const Hero = () => {
 
         <Container>
             <Typography>
-                Testing From Hero.js
+                Testing From Hero
             </Typography>
         </Container>
 
