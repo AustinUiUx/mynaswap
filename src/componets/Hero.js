@@ -6,7 +6,7 @@ const Hero = () => {
 
         <Container>
             <Typography>
-                Testing From Hero
+                Testing From Hero wqe
             </Typography>
         </Container>
 
